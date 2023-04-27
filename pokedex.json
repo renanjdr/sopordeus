@@ -1,0 +1,80 @@
+[
+  {
+    "name": "bulbasaur",
+    "type": "grass",
+    "dex": 1,
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 45
+      },
+      {
+        "name": "attack",
+        "base_stat": 49
+      },
+      {
+        "name": "defense",
+        "base_stat": 49
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 65
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 65
+      },
+      {
+        "name": "speed",
+        "base_stat": 45
+      }
+    ],
+    "height": 7,
+    "weight": 69,
+    "moves": [
+      "worry-seed",
+      "grass-whistle",
+      "take-down",
+      "sleep-talk"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "type": "grass",
+    "dex": 2,
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 60
+      },
+      {
+        "name": "attack",
+        "base_stat": 62
+      },
+      {
+        "name": "defense",
+        "base_stat": 63
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 80
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 80
+      },
+      {
+        "name": "speed",
+        "base_stat": 60
+      }
+    ],
+    "height": 10,
+    "weight": 130,
+    "moves": [
+      "swords-dance",
+      "safeguard",
+      "grass-pledge",
+      "reflect"
+    ]
+  }
+]
